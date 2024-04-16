@@ -1,0 +1,20 @@
+{
+  "production": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-fanagoadmin-production-baac7-authRole",
+      "UnauthRoleArn": "arn:aws:iam::637423244905:role/amplify-fanagoadmin-production-baac7-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::637423244905:role/amplify-fanagoadmin-production-baac7-authRole",
+      "Region": "ap-southeast-1",
+      "DeploymentBucketName": "amplify-fanagoadmin-production-baac7-deployment",
+      "UnauthRoleName": "amplify-fanagoadmin-production-baac7-unauthRole",
+      "StackName": "amplify-fanagoadmin-production-baac7",
+      "StackId": "arn:aws:cloudformation:ap-southeast-1:637423244905:stack/amplify-fanagoadmin-production-baac7/0b3bf8d0-f753-11ee-b788-0638644903e3",
+      "AmplifyAppId": "dmmj6fmmiwkr9"
+    },
+    "categories": {
+      "auth": {
+        "fanagoadmin2f5f184c": {}
+      }
+    }
+  }
+}

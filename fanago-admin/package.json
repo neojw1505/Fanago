@@ -1,0 +1,52 @@
+{
+	"name": "fanago-cux",
+	"version": "0.1.0",
+	"private": true,
+	"proxy": "http://localhost:3000/",
+	"scripts": {
+		"dev": "next dev",
+		"build": "next build",
+		"start": "next start",
+		"lint": "next lint"
+	},
+	"dependencies": {
+		"@radix-ui/react-hover-card": "^1.0.7",
+		"@radix-ui/react-label": "^2.0.2",
+		"@stripe/stripe-js": "^3.0.8",
+		"add": "^2.0.6",
+		"apexcharts": "^3.45.2",
+		"aws-amplify": "^6.0.23",
+		"axios": "^1.6.8",
+		"button": "^1.1.1",
+		"class-variance-authority": "^0.7.0",
+		"clsx": "^2.1.0",
+		"flatpickr": "^4.6.13",
+		"formidable": "^3.5.1",
+		"jsvectormap": "^1.5.3",
+		"lucide-react": "^0.356.0",
+		"next": "14.1.0",
+		"next-auth": "^4.24.7",
+		"react": "^18.2.0",
+		"react-apexcharts": "^1.4.1",
+		"react-datepicker": "^6.6.0",
+		"react-datetime-picker": "^5.6.0",
+		"react-dom": "^18.2.0",
+		"react-json-to-csv": "^1.2.0",
+		"shadcn-ui": "^0.8.0",
+		"stripe": "^15.0.0",
+		"tailwind-merge": "^2.2.1"
+	},
+	"devDependencies": {
+		"@types/node": "^20",
+		"@types/react": "^18",
+		"@types/react-dom": "^18",
+		"autoprefixer": "^10.0.1",
+		"eslint": "^8",
+		"eslint-config-next": "14.1.0",
+		"postcss": "^8",
+		"prettier": "^3.2.5",
+		"prettier-plugin-tailwindcss": "^0.5.11",
+		"tailwindcss": "^3.4.1",
+		"typescript": "^5"
+	}
+}
